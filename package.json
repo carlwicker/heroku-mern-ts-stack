@@ -1,0 +1,23 @@
+{
+  "name": "heroku-mern-ts-stack",
+  "version": "1.0.0",
+  "description": "MERN Stack (Typescript)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "expressjs",
+    "reactjs",
+    "redux",
+    "nodejs",
+    "mongoose"
+  ],
+  "author": "Carl Wicker",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
