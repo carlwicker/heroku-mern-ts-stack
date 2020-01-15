@@ -1,8 +1,15 @@
 # Heroku MERN Stack (TypeScript Version)
 
+Includes HEROKU_POSTBUILD scripts for easy deployment from GitHub directly to Heroku.
+
 https://heroku-mern-ts-stack.herokuapp.com/
 
-Includes HEROKU_POSTBUILD scripts for easy deployment from GitHub directly to Heroku.
+## Deployment Instuctions
+
+- Push project to GitHub
+- Choose GitHub Deployment Method in the Heroku Dashboard
+- Connect GitHub Project to Dashboard
+- Press Deploy Branch Buttons
 
 # Development Environment
 
