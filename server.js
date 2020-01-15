@@ -16,9 +16,10 @@ app.use(express.json());
 // Enable CORS
 app.use(cors());
 
-// Mongoose Connection|
-const db = process.env.MONGODB_URI;
-mongoose.connect(db, { useNewUrlParser: true, useUnifiedTopology: true });
+// !!! CONFIGURE MONGOOSE CONNECTION HERE !!!
+
+// const db = process.env.MONGODB_URI;
+// mongoose.connect(db, { useNewUrlParser: true, useUnifiedTopology: true });
 
 // Static React Build Folder
 app.use(express.static(path.join(__dirname, "client/build/")));
