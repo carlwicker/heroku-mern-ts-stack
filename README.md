@@ -1,6 +1,6 @@
 # Heroku MERN Stack (TypeScript Version)
 
-A really simple boiler plate MERN Stack using Concurrently.
+Hassle free MERN Stack ready for deployment on Heroku.
 
 https://heroku-mern-ts-stack.herokuapp.com/
 
