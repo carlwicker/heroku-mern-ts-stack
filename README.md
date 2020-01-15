@@ -1,8 +1,6 @@
 # Heroku MERN Stack (TypeScript Version)
 
-A really simple MERN Stack using Concurrently.
-
-Includes HEROKU_POSTBUILD scripts for easy deployment from GitHub directly to Heroku.
+A really simple boiler plate MERN Stack using Concurrently.
 
 https://heroku-mern-ts-stack.herokuapp.com/
 
