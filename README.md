@@ -18,11 +18,9 @@ npm run dev
 This will run the concurrently package to enable ExpressJS and ReactJS at the same time.
 
 ReactJS Front End: http://localhost:3000
-
 ExpressJS API End Point: http://localhost:5000/api
 
 # Live Heroku
 
 ReactJS Front End: https://YOUR_HEROKU_PROJECT_NAME.herokuapp.com
-
-ExpressJS API Ened Point: https://YOUR_HEROKU_PROJECT_NAME.herokuapp.com/api
+ExpressJS API End Point: https://YOUR_HEROKU_PROJECT_NAME.herokuapp.com/api
