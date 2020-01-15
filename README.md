@@ -1,6 +1,6 @@
 # Heroku MERN Stack (TypeScript Version)
 
-Hassle free MERN Stack ready for deployment on Heroku.
+Hassle free MERN Stack ready for quick deployment on Heroku.
 
 https://heroku-mern-ts-stack.herokuapp.com/
 
