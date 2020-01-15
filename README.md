@@ -10,7 +10,7 @@ https://heroku-mern-ts-stack.herokuapp.com/
 
 - Push project to GitHub
 - Choose GitHub Deployment Method in the Heroku Dashboard
-- Connect GitHub Project to Dashboard
+- Connect GitHub Project in Heroku Dashboard
 - Press Deploy Branch Button in Heroku Dashboard
 
 # Development Environment
@@ -25,6 +25,6 @@ ExpressJS API End Point: http://localhost:5000/api
 
 # Live Heroku
 
-ReactJS Front End: https://YOUR_HEROKU_PROJECT_NAME.herokuapp.com
+ReactJS Front End: https://PROJECT_NAME.herokuapp.com
 
-ExpressJS API End Point: https://YOUR_HEROKU_PROJECT_NAME.herokuapp.com/api
+ExpressJS API End Point: https://PROJECT_NAME.herokuapp.com/api

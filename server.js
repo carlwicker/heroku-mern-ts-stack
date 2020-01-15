@@ -25,7 +25,7 @@ app.use(cors());
 app.use(express.static(path.join(__dirname, "client/build/")));
 
 // Express API Build
-app.get("/api", (req, res) => res.send("Express End Point"));
+app.get("/api", (req, res) => res.json({ test: "success" }));
 
 // Get React Build
 app.get("*", (req, res) => {
