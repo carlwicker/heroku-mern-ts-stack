@@ -9,7 +9,7 @@ https://heroku-mern-ts-stack.herokuapp.com/
 - Push project to GitHub
 - Choose GitHub Deployment Method in the Heroku Dashboard
 - Connect GitHub Project to Dashboard
-- Press Deploy Branch Buttons
+- Press Deploy Branch Button in Heroku Dashboard
 
 # Development Environment
 
